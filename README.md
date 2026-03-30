@@ -1,20 +1,3 @@
-- Informations *(C'est quoi SCSS ? Pourquoi l'utiliser ?)*
-- Méthode BEM
-- Préprocesseur, c'est quoi ?
-- Installation : NPM & package manager
-- Syntaxe SCSS
-- Les variables
-- Mixins
-- Fonctions
-- Collections — List & Map
-- Boucles — `@for`, `@each`, `@while`
-- Multi-fichiers — `@use` & `@forward`
-- Architecture 7-1
-
-
-
-
-
 # Evaluation scss Zakaria Commarteau
 
 ## Le html est la structure de notre page web, le css le style et le scss permet d'alléger le css. Trop de css peut devenir illisible et donc le scss intervient. C'est un outil qui permet de rajouter du style, des animations, du responsive à notre page web.
